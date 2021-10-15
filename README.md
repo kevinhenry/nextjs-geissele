@@ -2,7 +2,7 @@ Lab 41: React IV - Front End Deployment
 
 Deployed on: [Link](https://nextjs-geissele.vercel.app/)
 
-PR: [Link](https://github.com/kevinhenry/nextjs-geissele/pull/3)
+PR: [Link](https://github.com/kevinhenry/nextjs-geissele/pull/2)
 
 Collaboration: Tony Regalado, Anthony Williams
 
