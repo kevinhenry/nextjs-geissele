@@ -13,12 +13,12 @@ export default function Home() {
 
       <header>
         <h1 className='p-10 mx-auto mb-10 text-center'>
-          Welcome to Geissele!
+          Welcome to My Geissele!
         </h1>
       </header>
 
       <main className='p-10 mx-auto mb-10 text-center'>
-        A Site to Learn About Geissle Automatics and the URGI Rifle
+        A Site to Learn About My Geissle Automatics and the URGI Rifle
         {/* <div className='p-10 mx-auto mb-10 text-center'> */}
         <li ><img src='/URGI-profile.jpg' alt='URGI Rifle with sling' /></li>
         {/* <Image src='/logo-g.png' alt='URGI Rifle with sling' width={72} height={16} /> */}
